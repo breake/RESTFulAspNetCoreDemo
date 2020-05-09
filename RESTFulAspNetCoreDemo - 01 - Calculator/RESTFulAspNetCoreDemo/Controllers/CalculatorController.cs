@@ -19,7 +19,7 @@ namespace RESTFulAspNetCoreDemo.Controllers
         }
 
         // GET api/values/5/5
-        [HttpGet("{firstNumber}/{secondNumber}")]
+        [HttpGet("sum/{firstNumber}/{secondNumber}")]
         public IActionResult Sum(string firstNumber, string secondNumber)
         {
             if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
@@ -30,6 +30,21 @@ namespace RESTFulAspNetCoreDemo.Controllers
 
             return BadRequest("Invalid Input.");
         }
+
+
+        // GET api/values/5/5
+        [HttpGet("sub/{firstNumber}/{secondNumber}")]
+        public IActionResult Subtraction(string firstNumber, string secondNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var sum = ConvertToDecimal(firstNumber) - ConvertToDecimal(secondNumber);
+                return Ok(sum.ToString());
+            }
+
+            return BadRequest("Invalid Input.");
+        }
+
 
         private decimal ConvertToDecimal(string number)
         {
