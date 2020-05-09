@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos Git\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo.csproj": {}
+    "C:\\Projetos Git\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo - 01 - Calculator\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo.csproj": {}
   },
   "projects": {
-    "C:\\Projetos Git\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo.csproj": {
+    "C:\\Projetos Git\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo - 01 - Calculator\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos Git\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo.csproj",
+        "projectUniqueName": "C:\\Projetos Git\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo - 01 - Calculator\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo.csproj",
         "projectName": "RESTFulAspNetCoreDemo",
-        "projectPath": "C:\\Projetos Git\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo.csproj",
+        "projectPath": "C:\\Projetos Git\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo - 01 - Calculator\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo.csproj",
         "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos Git\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo\\obj\\",
+        "outputPath": "C:\\Projetos Git\\RESTFulAspNetCoreDemo\\RESTFulAspNetCoreDemo - 01 - Calculator\\RESTFulAspNetCoreDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
